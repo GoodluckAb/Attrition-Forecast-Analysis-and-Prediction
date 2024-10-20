@@ -9,7 +9,7 @@ Employee attrition is a significant concern for many organizations as it impacts
 
 ## Dataset
 
-The dataset used in this project includes various features such as employee demographics, job roles, compensation, performance, and other relevant attributes. It provides a comprehensive view of the factors that may contribute to employee turnover. This project aims to provide insights into the factors influencing employee attrition and predict which employees are likely to leave the company. Let's refine the project to make it more closely aligned with real-time scenarios and address live problem statements within an organization.
+The dataset used in this project includes various features such as employee demographics, job roles, compensation, performance, and other relevant attributes. It provides a comprehensive view of the factors that may contribute to employee turnover. This project aims to provide insights into the factors influencing employee attrition and predict which employees are likely to leave the company. Let's refine the project to make it more closely aligned with real-time scenarios and address live problem statements within an organization
 
 
 #### Business Intelligence (BI) Analysis:
