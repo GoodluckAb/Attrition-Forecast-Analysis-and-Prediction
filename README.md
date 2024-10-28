@@ -27,12 +27,3 @@ Documentation: All analysis reports and findings are documented in the docs/ fol
 Contributing
 We welcome contributions to the Acme AttritionForecast project! If you'd like to contribute, please fork the repository and submit a pull request with your changes.
 
-License
-This project is licensed under the MIT License. See the LICENSE file for details.
-
-Contact
-For any inquiries or feedback, please reach out to:
-
-Goodluck Abraham
-Email: goodluckabraham25@gmail.com
-LinkedIn: Goodluck Abraham
