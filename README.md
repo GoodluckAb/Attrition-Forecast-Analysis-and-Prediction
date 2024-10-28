@@ -20,8 +20,6 @@ The dataset contains a variety of features covering employee demographics, job r
 This repository contains the following core components:
 - **Data Exploration and Visualization:** Interactive dashboards in BI tools, exploring turnover trends across different factors.
 - **Descriptive Analytics:** In-depth analysis reports on attrition causes, including the influence of job satisfaction, workload, and career growth.
-- **Predictive Modeling:** Machine learning models to predict employees at high risk of attrition.
-- **Documentation:** This README and additional files with setup, instructions, and insights from the analysis.
 
 Additional Information
 Visualizations: Interactive dashboards will be available in the dashboards/ directory. Use your BI tool of choice to load and visualize the provided reports.
